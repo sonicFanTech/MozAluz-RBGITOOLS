@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/BANNER.png" alt="MozAluz RBGI Tools Banner" width="650">
+  <img src="assets/banner.png" alt="MozAluz RBGI Tools Banner" width="650">
 </p>
 
 <h1 align="center">MozAluz RBGI Tools</h1>
