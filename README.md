@@ -14,6 +14,8 @@
   <a href="https://github.com/sonicFanTech/MozAluz-RBGITOOLS/releases">Releases</a>
 </p>
 
+  <a href="https://github.com/sonicFanTech/RBGIFormat-SDK"><strong>.RBGI Format SDK></a>
+
 ---
 
 ## What is MozAluz RBGI Tools?
