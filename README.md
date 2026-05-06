@@ -14,8 +14,6 @@
   <a href="https://github.com/sonicFanTech/MozAluz-RBGITOOLS/releases">Releases</a>
 </p>
 
-  <a href="https://github.com/sonicFanTech/RBGIFormat-SDK"><strong>.RBGI Format SDK></a>
-
 ---
 
 ## What is MozAluz RBGI Tools?
@@ -46,6 +44,7 @@ The toolset includes:
 Latest pre-compiled Windows build:
 
 **[Download MozAluz RBGI Tools v1.0.0](https://github.com/sonicFanTech/MozAluz-RBGITOOLS/releases/download/v1/MozAluz_RBGI_TOOLS_V1.0.0.7z)**
+  <a href="https://github.com/sonicFanTech/RBGIFormat-SDK"><strong>.RBGI Format SDK></a>
 
 After downloading:
 
